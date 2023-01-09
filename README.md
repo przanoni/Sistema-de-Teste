@@ -2,8 +2,8 @@
 
 >Ainda em desenvolvimento
 
-Requisitos minimos
+Utilizar os comandos:
 
 ```
-Sistema Windows
+Node APP.js
 ```
